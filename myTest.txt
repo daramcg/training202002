@@ -1,1 +1,1 @@
-Testing merging with conflict
+EXACTLY THE SAME
